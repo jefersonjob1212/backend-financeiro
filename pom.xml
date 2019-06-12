@@ -6,7 +6,7 @@
 	<groupId>br.com.db1</groupId>
 	<artifactId>financiamento</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar4</packaging>
+	<packaging>jar</packaging>
 
 	<name>financiamento</name>
 	<description>Estudo de financiamento</description>
